@@ -9,9 +9,8 @@
 			沒大腸欸小黃好糞喵
 		</a>
 
-		<?php
-
-		echo "乘俊喵咪";
+		<?php 
+		include 'meowing.php';
 
 		?>
 
