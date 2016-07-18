@@ -1,7 +1,5 @@
 <?php
 
-$object = new cat();
-$object -> speak();
 
 class cat {
 	function speak() {
